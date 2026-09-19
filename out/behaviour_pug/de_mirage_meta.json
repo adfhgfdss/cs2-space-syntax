@@ -1,0 +1,60 @@
+{
+  "map_name": "de_mirage",
+  "source": "pug",
+  "demo_count": 4,
+  "rounds": 78,
+  "kills": 508,
+  "rows": 304084,
+  "bytes_total": 1147280307,
+  "sample_step_ticks": 16,
+  "demos": [
+    {
+      "demo_id": "2396609_8261_1",
+      "path": "demos_pug\\de_mirage\\2396609_8261_1.dem",
+      "map_name": "de_mirage",
+      "source": "pug",
+      "sha256": "deeda64a7c879f69a10c1bd344e6966e4db44e75d74af1d26a733ee7add4e093",
+      "size_bytes": 340736356,
+      "tick_rate": 64,
+      "rounds": 20,
+      "kills": 127,
+      "rows": 79643
+    },
+    {
+      "demo_id": "2396933_8249_2",
+      "path": "demos_pug\\de_mirage\\2396933_8249_2.dem",
+      "map_name": "de_mirage",
+      "source": "pug",
+      "sha256": "2543e52637477f36b6e1977ee6de9302cbbd6ef471f9e93fe0fd6f9e6b2b22bd",
+      "size_bytes": 391215774,
+      "tick_rate": 64,
+      "rounds": 25,
+      "kills": 157,
+      "rows": 104819
+    },
+    {
+      "demo_id": "2397597_8266_2",
+      "path": "demos_pug\\de_mirage\\2397597_8266_2.dem",
+      "map_name": "de_mirage",
+      "source": "pug",
+      "sha256": "579a0f02eb4be7d60b64775ed8bd53985f8406fe8ca68dbf59f81e6c1bab93f8",
+      "size_bytes": 354726277,
+      "tick_rate": 64,
+      "rounds": 23,
+      "kills": 151,
+      "rows": 93996
+    },
+    {
+      "demo_id": "test_demo",
+      "path": "demos_pug\\test_demo.dem",
+      "map_name": "de_mirage",
+      "source": "pug",
+      "sha256": "84a1a4191302bdd2a3bbb5a727842093744b1fb1a228aeec630369e44b622cb2",
+      "size_bytes": 60601900,
+      "tick_rate": 64,
+      "rounds": 10,
+      "kills": 73,
+      "rows": 25626
+    }
+  ]
+}

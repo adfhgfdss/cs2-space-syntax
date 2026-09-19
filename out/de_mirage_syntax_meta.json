@@ -1,0 +1,64 @@
+{
+  "map": "de_mirage",
+  "cell_px": 16,
+  "cell_world_units": 80.0,
+  "grid_cols": 64,
+  "grid_rows": 64,
+  "walkable_cells": 1386,
+  "walkable_share": 0.3384,
+  "transform_form": "uv",
+  "transform": {
+    "pos_x": -3230.0,
+    "pos_y": 1713.0,
+    "scale": 5.0,
+    "rotate": 0.0
+  },
+  "visibility_mean_degree": 384.5,
+  "visibility_max_degree": 626,
+  "choice_sources": 1386,
+  "elapsed_seconds": 92.2,
+  "metrics": {
+    "connectivity": {
+      "min": 59.0,
+      "median": 420.0,
+      "mean": 384.5036,
+      "max": 626.0
+    },
+    "isovist_area_px": {
+      "min": 15104.0,
+      "median": 107520.0,
+      "mean": 98432.9235,
+      "max": 160256.0
+    },
+    "isovist_perimeter": {
+      "min": 57.0,
+      "median": 235.5,
+      "mean": 230.1457,
+      "max": 366.0
+    },
+    "integration_hh_t": {
+      "min": 4.0957,
+      "median": 10.1363,
+      "mean": 9.7923,
+      "max": 13.5235
+    },
+    "integration_hh_m": {
+      "min": 0.0146,
+      "median": 0.02,
+      "mean": 0.0204,
+      "max": 0.0271
+    },
+    "choice_t": {
+      "min": 0.1818,
+      "median": 454.3465,
+      "mean": 579.3218,
+      "max": 5043.24
+    }
+  },
+  "sanity_correlation": {
+    "integration_t_vs_m": 0.4389,
+    "integration_t_vs_isovist_area": 0.9386,
+    "connectivity_vs_isovist_area": 1.0,
+    "integration_t_vs_choice_t": 0.448
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "map_name": "de_dust2",
+  "source": "pro",
+  "demo_count": 10,
+  "rounds": 236,
+  "kills": 1533,
+  "rows": 857094,
+  "bytes_total": 3342113453,
+  "sample_step_ticks": 16,
+  "demos": [
+    {
+      "demo_id": "de_dust2/2397458_navi-junior-vs-banger-gang-m1-dust2",
+      "path": "demos\\de_dust2\\2397458_navi-junior-vs-banger-gang-m1-dust2.dem",
+      "map_name": "de_dust2",
+      "source": "pro",
+      "sha256": "26ebd0105e50288bb10f5082b10a853fe4688f2dd7fdce349f1432adf2ea3e5c",
+      "size_bytes": 313474379,
+      "tick_rate": 64,
+      "rounds": 22,
+      "kills": 137,
+      "rows": 75155
+    },
+    {
+      "demo_id": "de_dust2/2397682_color-vs-sparta-m1-dust2",
+      "path": "demos\\de_dust2\\2397682_color-vs-sparta-m1-dust2.dem",
+      "map_name": "de_dust2",
+      "source": "pro",
+      "sha256": "689be1e3198dbc72576d9ef3c5926cd33fef4c9a4bcbfc779c84e7f2730633d2",
+      "size_bytes": 397319577,
+      "tick_rate": 64,
+      "rounds": 25,
+      "kills": 168,
+      "rows": 100217
+    },
+    {
+      "demo_id": "de_dust2/2397823_baks-vs-ex-rustec-m1-dust2",
+      "path": "demos\\de_dust2\\2397823_baks-vs-ex-rustec-m1-dust2.dem",
+      "map_name": "de_dust2",
+      "source": "pro",
+      "sha256": "48b29948504b55aa39df417cf3de0b80221d1a21769c28da27587538014901be",
+      "size_bytes": 304121312,
+      "tick_rate": 64,
+      "rounds": 22,
+      "kills": 147,
+      "rows": 79214
+    },
+    {
+      "demo_id": "de_dust2/2397913_infinite-vs-3dmax-dust2",
+      "path": "demos\\de_dust2\\2397913_infinite-vs-3dmax-dust2.dem",
+      "map_name": "de_dust2",
+      "source": "pro",
+      "sha256": "ab51c17ad64de1a19a3a744f9c48ffba6eca78b27645a47a7fee1725222c49f4",
+      "size_bytes": 347725322,
+      "tick_rate": 64,
+      "rounds": 23,
+      "kills": 159,
+      "rows": 96411
+    },
+    {
+      "demo_id": "de_dust2/2397932_olympus-vs-lag-m2-dust2",
+      "path": "demos\\de_dust2\\2397932_olympus-vs-lag-m2-dust2.dem",
+      "map_name": "de_dust2",
+      "source": "pro",
+      "sha256": "4c204eab1de467f94c40a0ed4def18deb43f69fafcd9d090902d8d8758030c2d",
+      "size_bytes": 269925440,
+      "tick_rate": 64,
+      "rounds": 23,
+      "kills": 141,
+      "rows": 64547
+    },
+    {
+      "demo_id": "de_dust2/2398102_vitality-vs-furia-m2-dust2",
+      "path": "demos\\de_dust2\\2398102_vitality-vs-furia-m2-dust2.dem",
+      "map_name": "de_dust2",
+      "source": "pro",
+      "sha256": "55257dd6a6c0ae4d314fd645a240145b9902da10a34b1fc97027b88d26250c1d",
+      "size_bytes": 304828588,
+      "tick_rate": 64,
+      "rounds": 19,
+      "kills": 127,
+      "rows": 74849
+    },
+    {
+      "demo_id": "de_dust2/2398157_berg-vs-famalicao-m2-dust2",
+      "path": "demos\\de_dust2\\2398157_berg-vs-famalicao-m2-dust2.dem",
+      "map_name": "de_dust2",
+      "source": "pro",
+      "sha256": "e3a08f71713c6b59a3be457982d3acd140e8c36411d63462d4eb2d37dde1d010",
+      "size_bytes": 441380801,
+      "tick_rate": 64,
+      "rounds": 31,
+      "kills": 192,
+      "rows": 116942
+    },
+    {
+      "demo_id": "de_dust2/2398160_saw-youngsters-vs-revenix-m1-dust2",
+      "path": "demos\\de_dust2\\2398160_saw-youngsters-vs-revenix-m1-dust2.dem",
+      "map_name": "de_dust2",
+      "source": "pro",
+      "sha256": "4d85854dd0205aa604a1d6bef08f90e43b61c706f036fdd9d6d2c06f79136602",
+      "size_bytes": 447625210,
+      "tick_rate": 64,
+      "rounds": 32,
+      "kills": 209,
+      "rows": 118419
+    },
+    {
+      "demo_id": "de_dust2/2398161_berg-vs-famalicao-m2-dust2",
+      "path": "demos\\de_dust2\\2398161_berg-vs-famalicao-m2-dust2.dem",
+      "map_name": "de_dust2",
+      "source": "pro",
+      "sha256": "77b939702e2e17e128807e0d88f8176fb7fe39d1ca16fc3d9b1ae2b3b46a94f9",
+      "size_bytes": 348102703,
+      "tick_rate": 64,
+      "rounds": 25,
+      "kills": 157,
+      "rows": 87554
+    },
+    {
+      "demo_id": "de_dust2/2398264_shinden-vs-turma-do-pagode-m3-dust2",
+      "path": "demos\\de_dust2\\2398264_shinden-vs-turma-do-pagode-m3-dust2.dem",
+      "map_name": "de_dust2",
+      "source": "pro",
+      "sha256": "6b9f0a909a0723effbdfed6c05a26139cc45d5f8413746aec2ec6d9c3feeb3a9",
+      "size_bytes": 167610121,
+      "tick_rate": 64,
+      "rounds": 14,
+      "kills": 96,
+      "rows": 43786
+    }
+  ]
+}

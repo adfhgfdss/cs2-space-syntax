@@ -1,0 +1,11 @@
+{
+  "demo": "demos\\test_demo.dem",
+  "map_name": "de_mirage",
+  "tick_rate": null,
+  "events": {
+    "round_freeze_end": 9,
+    "round_start": 10,
+    "round_end": 10,
+    "player_death": 73
+  }
+}

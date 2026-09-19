@@ -1,0 +1,132 @@
+{
+  "map_name": "de_mirage",
+  "source": "pro",
+  "demo_count": 10,
+  "rounds": 261,
+  "kills": 1722,
+  "rows": 943033,
+  "bytes_total": 3730201409,
+  "sample_step_ticks": 16,
+  "demos": [
+    {
+      "demo_id": "de_mirage/2397682_color-vs-sparta-m2-mirage",
+      "path": "demos\\de_mirage\\2397682_color-vs-sparta-m2-mirage.dem",
+      "map_name": "de_mirage",
+      "source": "pro",
+      "sha256": "721ee194c869366c9d7581ecb46bba223ddb3a76b0d85112ca00b5e2f089fdce",
+      "size_bytes": 487884360,
+      "tick_rate": 64,
+      "rounds": 30,
+      "kills": 187,
+      "rows": 129069
+    },
+    {
+      "demo_id": "de_mirage/2397933_for-fun-vs-overtake-sector-m1-mirage",
+      "path": "demos\\de_mirage\\2397933_for-fun-vs-overtake-sector-m1-mirage.dem",
+      "map_name": "de_mirage",
+      "source": "pro",
+      "sha256": "09e76063b4619d59ecec52901b85d604e98dab05ff6194158a4772f75e193042",
+      "size_bytes": 502979334,
+      "tick_rate": 64,
+      "rounds": 39,
+      "kills": 264,
+      "rows": 120412
+    },
+    {
+      "demo_id": "de_mirage/2398099_mouz-vs-natus-vincere-m3-mirage",
+      "path": "demos\\de_mirage\\2398099_mouz-vs-natus-vincere-m3-mirage.dem",
+      "map_name": "de_mirage",
+      "source": "pro",
+      "sha256": "deb45af3ce4ffaa9ec39c56d05399fcef5aa6ee6afeeb7e865b95c0e9e04a623",
+      "size_bytes": 323341353,
+      "tick_rate": 64,
+      "rounds": 22,
+      "kills": 141,
+      "rows": 78494
+    },
+    {
+      "demo_id": "de_mirage/2398100_magic-vs-mibr-m2-mirage",
+      "path": "demos\\de_mirage\\2398100_magic-vs-mibr-m2-mirage.dem",
+      "map_name": "de_mirage",
+      "source": "pro",
+      "sha256": "5b05700ae4eb8e824ce702f17f26cd8928192aa5307c952c5c52c792e1c11fac",
+      "size_bytes": 367854612,
+      "tick_rate": 64,
+      "rounds": 26,
+      "kills": 164,
+      "rows": 91296
+    },
+    {
+      "demo_id": "de_mirage/2398101_nrg-vs-aurora-m2-mirage",
+      "path": "demos\\de_mirage\\2398101_nrg-vs-aurora-m2-mirage.dem",
+      "map_name": "de_mirage",
+      "source": "pro",
+      "sha256": "ac98e63b34bb606a47978a56eeb48fd4c40cdce0203a0d02faafcfc3cf1c1464",
+      "size_bytes": 561351563,
+      "tick_rate": 64,
+      "rounds": 37,
+      "kills": 244,
+      "rows": 142055
+    },
+    {
+      "demo_id": "de_mirage/2398102_vitality-vs-furia-m1-mirage",
+      "path": "demos\\de_mirage\\2398102_vitality-vs-furia-m1-mirage.dem",
+      "map_name": "de_mirage",
+      "source": "pro",
+      "sha256": "7cb6e7de5a4fa24476be4add95642b363a548822f859d79cf0aa38901c813573",
+      "size_bytes": 359705788,
+      "tick_rate": 64,
+      "rounds": 22,
+      "kills": 143,
+      "rows": 87139
+    },
+    {
+      "demo_id": "de_mirage/2398158_lp-vs-berg-m2-mirage",
+      "path": "demos\\de_mirage\\2398158_lp-vs-berg-m2-mirage.dem",
+      "map_name": "de_mirage",
+      "source": "pro",
+      "sha256": "723c7e5eceb464e384abd3d6d35d184332440815bc12b54530f610b6a52e4efe",
+      "size_bytes": 270792273,
+      "tick_rate": 64,
+      "rounds": 23,
+      "kills": 152,
+      "rows": 68793
+    },
+    {
+      "demo_id": "de_mirage/2398159_gbc-vs-famalicao-m2-mirage",
+      "path": "demos\\de_mirage\\2398159_gbc-vs-famalicao-m2-mirage.dem",
+      "map_name": "de_mirage",
+      "source": "pro",
+      "sha256": "ffeb8184749ac4da6c603bb379d0f79da34883a6201bfa3acedb6b7f768127e6",
+      "size_bytes": 236212680,
+      "tick_rate": 64,
+      "rounds": 21,
+      "kills": 140,
+      "rows": 60083
+    },
+    {
+      "demo_id": "de_mirage/2398265_imperial-vs-bestia-m1-mirage",
+      "path": "demos\\de_mirage\\2398265_imperial-vs-bestia-m1-mirage.dem",
+      "map_name": "de_mirage",
+      "source": "pro",
+      "sha256": "3648963a782253698c1f2e3b116d7517c95a930e066e7317be173ccce3da3d07",
+      "size_bytes": 439206494,
+      "tick_rate": 64,
+      "rounds": 25,
+      "kills": 172,
+      "rows": 124535
+    },
+    {
+      "demo_id": "de_mirage/2398337_sementes-do-mal-vs-quintessencia-m2-mirage",
+      "path": "demos\\de_mirage\\2398337_sementes-do-mal-vs-quintessencia-m2-mirage.dem",
+      "map_name": "de_mirage",
+      "source": "pro",
+      "sha256": "3da3c3feb9d135d36f6b9923e17045e964bdc555270ea841f428b6c91bb54bf1",
+      "size_bytes": 180872952,
+      "tick_rate": 64,
+      "rounds": 16,
+      "kills": 115,
+      "rows": 41157
+    }
+  ]
+}

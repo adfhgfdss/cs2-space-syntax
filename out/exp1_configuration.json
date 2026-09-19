@@ -1,0 +1,24 @@
+{
+  "de_dust2": {
+    "lines": 159,
+    "crossfire_total": 1533,
+    "integration_vs_crossfire_rho": 0.0886,
+    "integration_vs_crossfire_r": 0.0937,
+    "choice_vs_crossfire_rho": 0.3082,
+    "integration_vs_count_rho": 0.1312,
+    "top20pct_mean_crossfire_per_m": 12.014,
+    "bottom20pct_mean_crossfire_per_m": 9.92,
+    "ratio_top_over_bottom": 1.211
+  },
+  "de_mirage": {
+    "lines": 178,
+    "crossfire_total": 1722,
+    "integration_vs_crossfire_rho": 0.2759,
+    "integration_vs_crossfire_r": 0.2099,
+    "choice_vs_crossfire_rho": 0.2164,
+    "integration_vs_count_rho": 0.2811,
+    "top20pct_mean_crossfire_per_m": 16.818,
+    "bottom20pct_mean_crossfire_per_m": 4.122,
+    "ratio_top_over_bottom": 4.08
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "occ_all": {
+    "connectivity": {
+      "rho": 0.0901,
+      "p": 2.87345087243292e-06,
+      "n": 1386,
+      "r": -0.1253
+    },
+    "isovist_area_px": {
+      "rho": 0.0901,
+      "p": 2.87345087243292e-06,
+      "n": 1386,
+      "r": -0.1253
+    },
+    "isovist_perimeter": {
+      "rho": 0.0471,
+      "p": 0.00023597990424599344,
+      "n": 1386,
+      "r": -0.0986
+    },
+    "integration_hh_t": {
+      "rho": 0.0667,
+      "p": 4.23468632053633e-06,
+      "n": 1386,
+      "r": -0.1232
+    },
+    "integration_hh_m": {
+      "rho": 0.1497,
+      "p": 0.006204506489410929,
+      "n": 1386,
+      "r": -0.0735
+    },
+    "choice_t": {
+      "rho": -0.0218,
+      "p": 0.0011148419439559237,
+      "n": 1386,
+      "r": -0.0875
+    }
+  },
+  "occ_early": {
+    "connectivity": {
+      "rho": -0.1493,
+      "p": 3.1038817830719764e-19,
+      "n": 1386,
+      "r": -0.2376
+    },
+    "isovist_area_px": {
+      "rho": -0.1493,
+      "p": 3.1038817830719764e-19,
+      "n": 1386,
+      "r": -0.2376
+    },
+    "isovist_perimeter": {
+      "rho": -0.1219,
+      "p": 1.483879638925019e-11,
+      "n": 1386,
+      "r": -0.18
+    },
+    "integration_hh_t": {
+      "rho": -0.1321,
+      "p": 1.2289538323240136e-18,
+      "n": 1386,
+      "r": -0.2336
+    },
+    "integration_hh_m": {
+      "rho": 0.0038,
+      "p": 0.0004097902478535648,
+      "n": 1386,
+      "r": -0.0948
+    },
+    "choice_t": {
+      "rho": -0.0222,
+      "p": 0.030885648335478695,
+      "n": 1386,
+      "r": -0.058
+    }
+  },
+  "flow": {
+    "connectivity": {
+      "rho": 0.0135,
+      "p": 0.10985549128310998,
+      "n": 1386,
+      "r": -0.043
+    },
+    "isovist_area_px": {
+      "rho": 0.0135,
+      "p": 0.10985549128310998,
+      "n": 1386,
+      "r": -0.043
+    },
+    "isovist_perimeter": {
+      "rho": 0.0059,
+      "p": 0.38697113176370534,
+      "n": 1386,
+      "r": -0.0233
+    },
+    "integration_hh_t": {
+      "rho": 0.0003,
+      "p": 0.020917508798126462,
+      "n": 1386,
+      "r": -0.062
+    },
+    "integration_hh_m": {
+      "rho": 0.125,
+      "p": 0.0026208741782719597,
+      "n": 1386,
+      "r": 0.0808
+    },
+    "choice_t": {
+      "rho": -0.0249,
+      "p": 0.40965288189833327,
+      "n": 1386,
+      "r": -0.0222
+    }
+  },
+  "visits_rounds": {
+    "connectivity": {
+      "rho": -0.001,
+      "p": 0.03444333757837256,
+      "n": 1386,
+      "r": -0.0568
+    },
+    "isovist_area_px": {
+      "rho": -0.001,
+      "p": 0.03444333757837256,
+      "n": 1386,
+      "r": -0.0568
+    },
+    "isovist_perimeter": {
+      "rho": 0.0011,
+      "p": 0.2550002405859228,
+      "n": 1386,
+      "r": -0.0306
+    },
+    "integration_hh_t": {
+      "rho": -0.0109,
+      "p": 0.010752453766259943,
+      "n": 1386,
+      "r": -0.0685
+    },
+    "integration_hh_m": {
+      "rho": 0.1045,
+      "p": 0.0053254558800398515,
+      "n": 1386,
+      "r": 0.0748
+    },
+    "choice_t": {
+      "rho": -0.0226,
+      "p": 0.3145253736661521,
+      "n": 1386,
+      "r": -0.027
+    }
+  },
+  "kills": {
+    "connectivity": {
+      "rho": 0.287,
+      "p": 2.9103414034694815e-19,
+      "n": 1386,
+      "r": 0.2377
+    },
+    "isovist_area_px": {
+      "rho": 0.287,
+      "p": 2.9103414034694815e-19,
+      "n": 1386,
+      "r": 0.2377
+    },
+    "isovist_perimeter": {
+      "rho": 0.194,
+      "p": 6.800894329564433e-08,
+      "n": 1386,
+      "r": 0.1443
+    },
+    "integration_hh_t": {
+      "rho": 0.2668,
+      "p": 5.688452441924711e-17,
+      "n": 1386,
+      "r": 0.2222
+    },
+    "integration_hh_m": {
+      "rho": 0.2421,
+      "p": 1.0436822537623105e-20,
+      "n": 1386,
+      "r": 0.247
+    },
+    "choice_t": {
+      "rho": 0.0175,
+      "p": 0.20961843376677955,
+      "n": 1386,
+      "r": -0.0337
+    }
+  },
+  "occ_ct": {
+    "connectivity": {
+      "rho": 0.3964,
+      "p": 0.6195328117214488,
+      "n": 1386,
+      "r": -0.0133
+    },
+    "isovist_area_px": {
+      "rho": 0.3964,
+      "p": 0.6195328117214488,
+      "n": 1386,
+      "r": -0.0133
+    },
+    "isovist_perimeter": {
+      "rho": 0.3394,
+      "p": 0.5311016173067613,
+      "n": 1386,
+      "r": 0.0168
+    },
+    "integration_hh_t": {
+      "rho": 0.3463,
+      "p": 0.8449626660523056,
+      "n": 1386,
+      "r": -0.0053
+    },
+    "integration_hh_m": {
+      "rho": 0.2577,
+      "p": 0.9922187533913579,
+      "n": 1386,
+      "r": -0.0003
+    },
+    "choice_t": {
+      "rho": 0.0566,
+      "p": 0.1251516289513579,
+      "n": 1386,
+      "r": -0.0412
+    }
+  },
+  "occ_t": {
+    "connectivity": {
+      "rho": -0.0937,
+      "p": 3.1765004661025236e-13,
+      "n": 1386,
+      "r": -0.194
+    },
+    "isovist_area_px": {
+      "rho": -0.0937,
+      "p": 3.1765004661025236e-13,
+      "n": 1386,
+      "r": -0.194
+    },
+    "isovist_perimeter": {
+      "rho": -0.1231,
+      "p": 7.701249447146909e-13,
+      "n": 1386,
+      "r": -0.1909
+    },
+    "integration_hh_t": {
+      "rho": -0.0696,
+      "p": 3.4183075802952354e-14,
+      "n": 1386,
+      "r": -0.2017
+    },
+    "integration_hh_m": {
+      "rho": 0.0511,
+      "p": 3.4344573526537377e-06,
+      "n": 1386,
+      "r": -0.1243
+    },
+    "choice_t": {
+      "rho": -0.015,
+      "p": 0.000705558371219006,
+      "n": 1386,
+      "r": -0.0909
+    }
+  },
+  "kills_ct": {
+    "connectivity": {
+      "rho": 0.2686,
+      "p": 5.763118831625427e-15,
+      "n": 1386,
+      "r": 0.2077
+    },
+    "isovist_area_px": {
+      "rho": 0.2686,
+      "p": 5.763118831625427e-15,
+      "n": 1386,
+      "r": 0.2077
+    },
+    "isovist_perimeter": {
+      "rho": 0.21,
+      "p": 1.2976474031255943e-07,
+      "n": 1386,
+      "r": 0.1412
+    },
+    "integration_hh_t": {
+      "rho": 0.26,
+      "p": 5.49643873930586e-14,
+      "n": 1386,
+      "r": 0.2001
+    },
+    "integration_hh_m": {
+      "rho": 0.1946,
+      "p": 2.3262420485902588e-14,
+      "n": 1386,
+      "r": 0.203
+    },
+    "choice_t": {
+      "rho": 0.0667,
+      "p": 0.8524406746640374,
+      "n": 1386,
+      "r": -0.005
+    }
+  },
+  "kills_t": {
+    "connectivity": {
+      "rho": 0.2132,
+      "p": 4.122206191119843e-09,
+      "n": 1386,
+      "r": 0.1571
+    },
+    "isovist_area_px": {
+      "rho": 0.2132,
+      "p": 4.122206191119843e-09,
+      "n": 1386,
+      "r": 0.1571
+    },
+    "isovist_perimeter": {
+      "rho": 0.1225,
+      "p": 0.004773351683584126,
+      "n": 1386,
+      "r": 0.0758
+    },
+    "integration_hh_t": {
+      "rho": 0.1847,
+      "p": 2.0061905256502713e-07,
+      "n": 1386,
+      "r": 0.1391
+    },
+    "integration_hh_m": {
+      "rho": 0.1995,
+      "p": 1.6448926194976916e-11,
+      "n": 1386,
+      "r": 0.1796
+    },
+    "choice_t": {
+      "rho": -0.0055,
+      "p": 0.044940279172699556,
+      "n": 1386,
+      "r": -0.0539
+    }
+  },
+  "_hotspot_vs_integration": {
+    "occ_all": {
+      "behaviour_top10pct_cells": 139,
+      "behaviour_top10pct_median_metric": 10.043,
+      "all_cells_median_metric": 10.136,
+      "metric_top10pct_median_behaviour": 360.0,
+      "all_cells_median_behaviour": 308.0,
+      "overlap_cells": 15,
+      "overlap_expected_if_independent": 13.9
+    },
+    "occ_early": {
+      "behaviour_top10pct_cells": 141,
+      "behaviour_top10pct_median_metric": 8.518,
+      "all_cells_median_metric": 10.136,
+      "metric_top10pct_median_behaviour": 38.0,
+      "all_cells_median_behaviour": 32.0,
+      "overlap_cells": 8,
+      "overlap_expected_if_independent": 14.1
+    },
+    "flow": {
+      "behaviour_top10pct_cells": 139,
+      "behaviour_top10pct_median_metric": 9.483,
+      "all_cells_median_metric": 10.136,
+      "metric_top10pct_median_behaviour": 234.0,
+      "all_cells_median_behaviour": 230.5,
+      "overlap_cells": 13,
+      "overlap_expected_if_independent": 13.9
+    },
+    "choice_t": {
+      "behaviour_top10pct_cells": 139,
+      "behaviour_top10pct_median_metric": 441.4,
+      "all_cells_median_metric": 454.346,
+      "metric_top10pct_median_behaviour": 267.0,
+      "all_cells_median_behaviour": 308.0,
+      "overlap_cells": 12,
+      "overlap_expected_if_independent": 13.9
+    }
+  },
+  "_note": "Spearman 秩相关，n = 可通行格子数。空间数据存在自相关，p 值只能当参考，不能当独立样本的显著性。",
+  "_samples": {
+    "tracks_total": 943033,
+    "tracks_in_grid": 941324,
+    "tracks_early": 149525,
+    "early_window_seconds": 15.0,
+    "kills_total": 1722,
+    "kills_in_grid": 1706,
+    "cells": 1386,
+    "cell_px": 16
+  }
+}

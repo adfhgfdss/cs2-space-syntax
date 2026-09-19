@@ -1,0 +1,20 @@
+{
+  "demo": "demos\\test_demo.dem",
+  "map_name": "de_mirage",
+  "tick_rate": 64,
+  "sample_step_ticks": 16,
+  "rounds": 10,
+  "round_freeze_end": [
+    1761,
+    10699,
+    16960,
+    23185,
+    27792,
+    32925,
+    40548,
+    46820,
+    53446,
+    null
+  ],
+  "rows": 25626
+}

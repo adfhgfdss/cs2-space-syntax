@@ -1,0 +1,33 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 不入库的内容（导出目录里本来也没有，这里作为二次保险）
+demos/                 # 比赛录像（版权 + 体积）
+demos_pug/
+_history/              # 本地快照仓库
+.incoming/
+_incoming/             # 抓取会话与日志（含个人登录凭据）
+.browser-profile/
+tools/                 # 第三方二进制（depthmapXcli.exe）
+
+# 原始游戏资产（版权归 Valve，可用脚本从本机游戏重新生成）
+data/*.png
+data/*.txt
+data/game_nav/*.nav
+data/game_nav/*.npz
+
+# 大的中间数据（想带上就删掉这几行）
+out/behaviour/*.parquet
+out/behaviour_pug/*.parquet
+out/*_tracks.parquet
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+desktop.ini

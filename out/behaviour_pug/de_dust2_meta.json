@@ -1,0 +1,60 @@
+{
+  "map_name": "de_dust2",
+  "source": "pug",
+  "demo_count": 4,
+  "rounds": 95,
+  "kills": 572,
+  "rows": 417360,
+  "bytes_total": 1717015034,
+  "sample_step_ticks": 16,
+  "demos": [
+    {
+      "demo_id": "2394156_8049_1",
+      "path": "demos_pug\\de_dust2\\2394156_8049_1.dem",
+      "map_name": "de_dust2",
+      "source": "pug",
+      "sha256": "52115c87b1226f6347617c876987618d311760c3fa365e6577f3a7ec60ce8bee",
+      "size_bytes": 639903643,
+      "tick_rate": 64,
+      "rounds": 29,
+      "kills": 182,
+      "rows": 118854
+    },
+    {
+      "demo_id": "2396932_8249_1",
+      "path": "demos_pug\\de_dust2\\2396932_8249_1.dem",
+      "map_name": "de_dust2",
+      "source": "pug",
+      "sha256": "0bdc35274f874fcbb1f250f0b37209c3ea6e9bd015de88c22826f80ad40c2629",
+      "size_bytes": 342750435,
+      "tick_rate": 64,
+      "rounds": 21,
+      "kills": 109,
+      "rows": 98012
+    },
+    {
+      "demo_id": "2396947_8249_2",
+      "path": "demos_pug\\de_dust2\\2396947_8249_2.dem",
+      "map_name": "de_dust2",
+      "source": "pug",
+      "sha256": "afc9f9eb3b1327f7c33f399ce7be755a544efb32006a387e78d70b99af84f842",
+      "size_bytes": 378373716,
+      "tick_rate": 64,
+      "rounds": 23,
+      "kills": 148,
+      "rows": 101907
+    },
+    {
+      "demo_id": "2396951_8249_1",
+      "path": "demos_pug\\de_dust2\\2396951_8249_1.dem",
+      "map_name": "de_dust2",
+      "source": "pug",
+      "sha256": "9a831761cc494a500c808b1311b00a315f4af7b940fc2db28dc3e9830ae44de1",
+      "size_bytes": 355987240,
+      "tick_rate": 64,
+      "rounds": 22,
+      "kills": 133,
+      "rows": 98587
+    }
+  ]
+}

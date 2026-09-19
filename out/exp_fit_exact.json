@@ -1,0 +1,98 @@
+{
+  "de_dust2": {
+    "n_lines": 156,
+    "crossfire_total": 1530,
+    "integration_vs_density": {
+      "n": 156,
+      "spearman_rho": 0.0854,
+      "spearman_p": 0.2892330204732581,
+      "pearson_r": 0.1189,
+      "r2": 0.0141,
+      "pearson_p": 0.1392247594525253,
+      "slope": 20.679044253704944,
+      "intercept": -0.7307209957012315,
+      "stderr": 13.912414050907168
+    },
+    "choice_vs_density": {
+      "n": 156,
+      "spearman_rho": 0.3133,
+      "spearman_p": 6.816860219855776e-05,
+      "pearson_r": 0.332,
+      "r2": 0.1103,
+      "pearson_p": 2.2889958567983155e-05,
+      "slope": 0.0025332231512954517,
+      "intercept": 3.7856119246549653,
+      "stderr": 0.0005798959384391497
+    },
+    "integration_vs_count": {
+      "n": 156,
+      "spearman_rho": 0.1227,
+      "spearman_p": 0.1269328131590591,
+      "pearson_r": 0.0891,
+      "r2": 0.0079,
+      "pearson_p": 0.26879223445264827,
+      "slope": 29.12231309801342,
+      "intercept": -2.7950801146016087,
+      "stderr": 26.239784148026104
+    },
+    "connectivity_vs_integration": {
+      "n": 156,
+      "spearman_rho": 0.1965,
+      "spearman_p": 0.013972672001893439,
+      "pearson_r": 0.1685,
+      "r2": 0.0284,
+      "pearson_p": 0.03545709827020935,
+      "slope": 0.009400483658947368,
+      "intercept": 0.4040696124252632,
+      "stderr": 0.0044304838021652715
+    }
+  },
+  "de_mirage": {
+    "n_lines": 178,
+    "crossfire_total": 1722,
+    "integration_vs_density": {
+      "n": 178,
+      "spearman_rho": 0.2759,
+      "spearman_p": 0.00019312645243494496,
+      "pearson_r": 0.2099,
+      "r2": 0.0441,
+      "pearson_p": 0.004913019031206732,
+      "slope": 54.98055777141919,
+      "intercept": -12.288837417710315,
+      "stderr": 19.300178638647097
+    },
+    "choice_vs_density": {
+      "n": 178,
+      "spearman_rho": 0.2164,
+      "spearman_p": 0.0037234846885094955,
+      "pearson_r": 0.2473,
+      "r2": 0.0612,
+      "pearson_p": 0.0008752019378622371,
+      "slope": 0.002268582221934554,
+      "intercept": 7.773498889381845,
+      "stderr": 0.0006700241282896008
+    },
+    "integration_vs_count": {
+      "n": 178,
+      "spearman_rho": 0.2811,
+      "spearman_p": 0.0001444354815149331,
+      "pearson_r": 0.3112,
+      "r2": 0.0968,
+      "pearson_p": 2.3590580632848713e-05,
+      "slope": 87.20394209416627,
+      "intercept": -29.364741302268538,
+      "stderr": 20.074748691888402
+    },
+    "connectivity_vs_integration": {
+      "n": 178,
+      "spearman_rho": 0.3691,
+      "spearman_p": 3.99372461839103e-07,
+      "pearson_r": 0.3223,
+      "r2": 0.1039,
+      "pearson_p": 1.1470557840767689e-05,
+      "slope": 0.02195292079261491,
+      "intercept": 0.3805814806113342,
+      "stderr": 0.004860211088115864
+    }
+  }
+}
